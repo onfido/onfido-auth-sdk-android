@@ -4,8 +4,13 @@
 
 The Onfido Android Authentication SDK provides a set of screens for Android applications to capture 3D face scans for the purpose of identity authentication.
 
-//todo Add screenshots
-
+<p>
+  <img src="screenshots/Screenshot_start_face_scan.png" width="120">
+  <img src="screenshots/Screenshot_move_in_closer.png" width="120">
+  <img src="screenshots/Screenshot_retry.png" width="120">
+  <img src="screenshots/Screenshot_uploading.png" width="120">
+  <img src="screenshots/Screenshot_successful.png" width="120">
+<p>
 
 
 ## Getting Started
@@ -197,7 +202,7 @@ val config = OnfidoAuthenticationConfig.builder(this)
 
 ```
 
-//todo Add screenshots
+<img src="screenshots/Screenshot_user_consent.png" width="120">
 
 :warning: This step doesn't automatically inform Onfido that the user has given their consent.
 
