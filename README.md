@@ -1,5 +1,14 @@
 # Onfido Android Authentication SDK
 
+## Table of contents
+
+* [Overview](#overview)
+* [Getting started](#getting-started)
+* [Handling callbacks](#handling-callbacks)
+* [Customizing the SDK](#customizing-the-sdk)
+* [Localization](#localization)
+* [User Consent Screen](#user-consent-screen)
+
 ## Overview
 
 The Onfido Android Authentication SDK provides a set of screens for Android applications to capture 3D face scans for the purpose of identity authentication.
