@@ -30,7 +30,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.0'
     implementation 'com.google.android.material:material:1.4.0'
 
-    implementation 'com.onfido.sdk:authentication:0.0.3'
+    implementation 'com.onfido.sdk:authentication:0.0.4'
 
     implementation "androidx.core:core-ktx:1.7.0"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
